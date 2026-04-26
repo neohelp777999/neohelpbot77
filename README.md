@@ -1,2 +1,0 @@
-# neohelpbot77
-Бот
